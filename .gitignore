@@ -208,5 +208,6 @@ __marimo__/
 
 
 output/*
+output*
 images/*
 *.pdf
