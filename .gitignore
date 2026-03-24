@@ -211,3 +211,8 @@ output/*
 output*
 images/*
 *.pdf
+_DATA*
+*.vscode
+
+Depth-Anything-3*
+hamer*
